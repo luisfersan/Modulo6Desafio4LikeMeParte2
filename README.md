@@ -19,7 +19,7 @@ La red social “Like Me” sigue desarrollando su plataforma y ahora necesita p
 
 El servidor estará escuchando en http://localhost:3000. Las rutas disponibles serán:
 
-- GET http://localhost:3000/posts: Para obtener todos los posts.
+- GET http://localhost:3000/get: Para obtener todos los posts.
 - POST http://localhost:3000/posts: Para agregar un nuevo post enviando un cuerpo en formato JSON con los campos titulo, url (para la imagen) y descripción.
 - El archivo server.js contiene todo lo necesario para cumplir con los puntos del desafío.
 
