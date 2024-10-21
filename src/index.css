@@ -1,0 +1,43 @@
+body {
+  background: #f1f1f1;
+}
+
+.form {
+  padding: 15px;
+  background: #79797b;
+  color: white;
+}
+
+.card-body {
+  background: #e1e2e1;
+}
+
+#creado {
+  background: #d1d2d3;
+}
+
+.card {
+  background: transparent !important;
+  border: none !important;
+}
+
+.fa-solid {
+  color: red;
+}
+
+i {
+  cursor: pointer;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.border-danger {
+  border: 2px solid red;
+}
+
+.card {
+  margin-bottom: 20px; /* Espacio entre las tarjetas */
+}
